@@ -1,2 +1,2 @@
 # form-generator
-Generating dynamic form element with Pure JavaScript
+Generating dynamic form elements with Pure JavaScript
